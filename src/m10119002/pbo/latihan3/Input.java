@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author
  * NAMA     : Firman Sahita
- * KELAS    : PBO1
+ * KELAS    : IF-1
  * NIM      : 10119002
  * Deskripsi Program : Program ini berisi program untuk memasukkan nilai
  * dari keyboard
